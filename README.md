@@ -10,7 +10,7 @@
 
 > skills
 
-- 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5)  ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3) ![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE) ![React](https://img.shields.io/badge/-React-blue?style=flat-circle&logo=React) ![Next.Js](https://img.shields.io/badge/-NextJs-blue?style=flat-circle&logo=Next)
+- 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5)  ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3) ![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE) ![React](https://img.shields.io/badge/-React-blue?style=flat-circle&logo=React) ![NextJs](https://img.shields.io/badge/-Next-blue?style=flat-circle&logo=Next)
 
 - :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode) ![Sublime](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=Sublime)
 
